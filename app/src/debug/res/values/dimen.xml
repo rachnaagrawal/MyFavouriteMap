@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_progress_bar">35dp</dimen>
+    <dimen name="hieght_nxt_button">60dp</dimen>
+    <dimen name="margin_nxt_button">20dp</dimen>
+    <dimen name="progress_bar_scrollbarsize">400dp</dimen>
+    <dimen name="progress_bar_statesize">35dp</dimen>
+    <dimen name="margin_camera_icon">50dp</dimen>
+    <dimen name="text_size_click_photo">20sp</dimen>
+</resources>

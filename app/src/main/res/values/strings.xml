@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyFavouriteMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_photo">Click Photo from Camera</string>
+    <string name="add_photo_gallery">Add Photo from Gallery</string>
+    <string name="name">Name</string>
+    <string name="location">Location*</string>
+    <string name="Potholedepth">Approx. Pothole Depth</string>
+    <string name="Remark">Remark</string>
+    <string name="severity_high">High</string>
+    <string name="severity_medium">Medium</string>
+    <string name="severity_low">Low</string>
+    <string name="Potholeseverity">Pothole Severity :</string>
+    <string name="dialog_message">Pothole reported Successfully !!</string>
+    <string name="dialog_title">Confirmation</string>
+    <string name="ok">OK</string>
+    <string-array name="typeoflocation_array">
+        <item>Main Road</item>
+        <item>Footpath</item>
+        <item>Middle of Road</item>
+        <item>Sides of Road</item>
+        <item>Crosswalks</item>
+    </string-array>
+
+</resources>
